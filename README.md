@@ -17,14 +17,14 @@ To run the application with a specific environment and load the corresponding `a
 
 ```sh
 set ASPNETCORE_ENVIRONMENT=Testing
-dotnet run --project DotNetConfig
+dotnet run --no-launch-profile
 ```
 
 ### Windows (PowerShell)
 
 ```sh
 $env:ASPNETCORE_ENVIRONMENT="Testing"
-dotnet run --project DotNetConfig
+dotnet run --no-launch-profile
 ```
 
 
