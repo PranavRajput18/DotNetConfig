@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BcemLhg/Ir+Q/GCZ64nz8z5cUgqYhqb3i40O66jeBVg=",
+  "Source": "DotNetConfig",
+  "BasePath": "_content/DotNetConfig",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
